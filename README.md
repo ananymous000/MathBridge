@@ -4,7 +4,16 @@
 
 ### 1. Youtube Math lecture
 link : https:// <br/>
-audio:<br/>
+audio:
+!audio[audio1](audios/audio_output_0.wav){ size=10 duration=10 cycle=forever }
+
+<audio controls>
+  <source src="audios/audio_output_0.wav" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
+<br/>
 latex:<br/>
 rendered image:
 ![image 1](images/image_1285.png)
